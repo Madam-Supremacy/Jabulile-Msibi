@@ -33,7 +33,7 @@ Fluent in: **Python, Java, JavaScript, TypeScript, HTML, CSS, Tailwind**
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/jabulile-msibi-706aa8367)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jabulile-msibi-706aa8367/) 
 - 🌐 [Portfolio Website](#)  
 - ✉️ [Email Me](jabulilemsibi184@gmail.com)  
 
