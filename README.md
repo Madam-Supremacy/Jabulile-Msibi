@@ -24,9 +24,9 @@ Fluent in: **Python, Java, JavaScript, TypeScript, HTML, CSS, Tailwind**
 ---
 
 ## 📂 Featured Projects
-- 🌟 [Project Name](#) – Short one-liner about what it does  
-- 🌟 [Project Name](#) – Short one-liner about what it does  
-- 🌟 [Project Name](#) – Short one-liner about what it does
+- 🌟 [Antivirus simulator](https://jaysecure.netlify.app/) – It simulates a file scanner.  
+- 🌟 [Weather WebApp](https://weather214c0a.netlify.app/) – Simulates the behaviour of a real web APP.
+- 🌟 [AI Poem generator](https://cheerful-poem-maker-9d247d.netlify.app/) – uses AI to generate a short poem based on the theme given to it.
 - 🌟 [Project Name](#) – Short one-liner about what it does
 - 🌟 [Project Name](#) – Short one-liner about what it does 
 
@@ -34,7 +34,7 @@ Fluent in: **Python, Java, JavaScript, TypeScript, HTML, CSS, Tailwind**
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jabulile-msibi-706aa8367/) 
-- 🌐 [Portfolio Website](#)  
+- 🌐 [Portfolio Website](https://jabulilemsibi.netlify.app/)  
 - ✉️ [Email Me](jabulilemsibi184@gmail.com)  
 
 ---
